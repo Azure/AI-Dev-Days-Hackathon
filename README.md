@@ -2,9 +2,9 @@
 
 > **Transform inspiration into innovation** — A 5-week global challenge to build AI agents, agentic DevOps workflows, and intelligent applications using Microsoft's AI platform.
 
-[![Registration Open](https://img.shields.io/badge/Registration-Open-brightgreen)](https://github.com/Azure/AI-Dev-Days-Hackathon)
-[![Duration](https://img.shields.io/badge/Duration-5%20Weeks-blue)]()
-[![Prize Pool](https://img.shields.io/badge/Prize%20Pool-$60K+-gold)]()
+[![Registration Open](https://img.shields.io/badge/Registration-Open-brightgreen)](https://aka.ms/aidevdayshackathon)
+[![Duration](https://img.shields.io/badge/Duration-5%20Weeks-blue)](https://aka.ms/aidevdayshackathon)
+[![Prize Pool](https://img.shields.io/badge/Prize%20Pool-$60K+-gold)](https://aka.ms/aidevdayshackathon)
 
 ---
 
@@ -14,7 +14,7 @@ The **AI Dev Days Hackathon** is your opportunity to turn the insights from AI D
 
 ### Why Participate?
 
-- 💰 **$60,000+ in prizes** across multiple categories
+- 💰 **$80,000+ in prizes** across multiple categories
 - 🎟️ **Microsoft Build 2026 tickets** for winners
 - 🤝 **1-on-1 mentoring** with Microsoft team members
 - 📣 **Social promotion** and recognition for winning projects
@@ -174,6 +174,6 @@ Reach out to the organizing team for support. Good luck building! 🚀
 <div align="center">
 
 **Built with <3 from the Azure Developer and Solutions Marketing teams**
-[Register Now](https://aka.ms/aidevdayshackathon) | [View Projects](https://aka.ms/aidevdayshackathon) | [Documentation](https://aka.ms/ai-dev-days)
+[Register Now](https://aka.ms/aidevdayshackathon) | [Documentation](https://aka.ms/ai-dev-days)
 
 </div>
