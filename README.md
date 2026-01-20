@@ -171,8 +171,7 @@ Reach out to the organizing team for support. Good luck building! 🚀
 
 <div align="center">
 
-**Built with ❤️ by the AI Dev Days Team**
+**Built with <3 from the Azure Developer and Solutions Marketing teams**
+[Register Now](https://aka.ms/aidevdayshackathon) | [View Projects](https://aka.ms/aidevdayshackathon) | [Documentation](https://aka.ms/ai-dev-days)
 
-[Register Now](#) | [View Projects](#) | [Documentation](https://aka.ms/ai-dev-days)
-
-</div>
+</div>Page_Down
