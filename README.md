@@ -116,28 +116,30 @@ Your submission must include:
 
 ## ⚖️ Judging Criteria
 
-Projects are evaluated across **four equally-weighted dimensions** (25% each):
+Projects are evaluated across **five equally-weighted dimensions** (20% each):
 
-### 1. 💻 Technological Implementation (25%)
+### 1. 💻 Technological Implementation (20%)
 - Quality software development practices
 - Effective use of hero technologies
 - Well-structured, documented, and maintainable code
 
-### 2. 🧠 Agentic Design & Innovation (25%)
+### 2. 🧠 Agentic Design & Innovation (20%)
 - Creative application of Agentic AI patterns
 - Sophisticated agent orchestration or multi-agent collaboration
 - Novel AI implementation or meaningful improvements
 
-### 3. 🌍 Real-World Impact & Applicability (25%)
+### 3. 🌍 Real-World Impact & Applicability (20%)
 - Significance of the problem being solved
 - Production deployment readiness
 - Potential impact on developers, businesses, or end users
 
-### 4. 🎨 User Experience & Presentation (25%)
+### 4. 🎨 User Experience & Presentation (20%)
 - Well-designed and intuitive user experience
 - Clear communication of project value in demo
 - Balanced frontend and backend implementation
 
+### 5. 🎨 Adherence to Hackathon Category (20%)
+- Comply with the description of the applicable hackathon category.
 ---
 
 ## 📚 Resources
@@ -156,7 +158,7 @@ Get started with these learning resources:
 
 | Phase | Dates | Description |
 |-------|-------|-------------|
-| **📝 Registration** | Jan 20 - Feb 8, 2026 | Sign up and form your team |
+| **📝 Registration** | Jan 20 - Feb 22, 2026 | Sign up and form your team |
 | **💻 Hacking** | Feb 10 - Mar 15, 2026 | Build your AI solution |
 | **🔍 Project Review** | Mar 16 - Mar 22, 2026 | Judging period |
 | **🎉 Announcements** | Mar 25, 2026 | Winners revealed! |
@@ -174,4 +176,4 @@ Reach out to the organizing team for support. Good luck building! 🚀
 **Built with <3 from the Azure Developer and Solutions Marketing teams**
 [Register Now](https://aka.ms/aidevdayshackathon) | [View Projects](https://aka.ms/aidevdayshackathon) | [Documentation](https://aka.ms/ai-dev-days)
 
-</div>Page_Down
+</div>
