@@ -50,7 +50,7 @@ An Eligible Individual may join more than one (1) Team or Organization in additi
 
 ## How To Enter  
 
-Entrants may enter by visiting https://aka.ms/aidevdayshackathon/register ("Hackathon Website") and following the below steps: 
+Entrants may enter by visiting https://aka.ms/aidevdayshackathon ("Hackathon Website") and following the below steps: 
 
 1. Register for the Hackathon on the Hackathon Website by clicking the "Register Now" link. 
 2. Entrants will obtain access to the required developer tools/platform and complete a Project, as described below in Project Requirements. Use of the developer tools will be subject to the license agreement related thereto. Entry in the Hackathon constitutes consent for the Sponsor to collect and maintain an entrant's personal information for the purpose of operating and publicizing the Hackathon, and as otherwise provided in Section 14 (Privacy) below. 
