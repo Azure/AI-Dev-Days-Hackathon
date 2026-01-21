@@ -65,7 +65,7 @@ All submissions must meet these three requirements:
 
 - Microsoft Build 2026 in-person ticket (up to 4 team members)
 - Feature in social promotion
-- 1-on-1 mentoring with Microsoft team
+- 1-on-1 mentoring session with Microsoft team
 - **$20,000 - ($5,000 per team member, up to 4 members)**
 
 *Best overall solution with real-world impact and innovative use of Microsoft AI platform*
@@ -77,7 +77,7 @@ All submissions must meet these three requirements:
 
 - Microsoft Build 2026 in-person ticket (up to 4 team members)
 - Feature in social promotion
-- 1-on-1 mentoring with Microsoft team
+- 1-on-1 mentoring session with Microsoft team
 - **$20,000 - ($5,000 per team member, up to 4 members)**
 
 *Best solution leveraging agentic DevOps to automate CI/CD, incident response, and reliability engineering*
