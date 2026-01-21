@@ -16,7 +16,7 @@ The [**AI Dev Days Hackathon**](https://aka.ms/aidevdayshackathon) is your oppor
 
 - 💰 **$80,000+ in prizes** across multiple categories
 - 🎟️ **Microsoft Build 2026 tickets** for winners
-- 🤝 **1-on-1 mentoring** with Microsoft team members
+- 🤝 **1-on-1 mentoring session** with Microsoft team
 - 📣 **Social promotion** and recognition for winning projects
 - 🌍 **Global community** of AI innovators
 
