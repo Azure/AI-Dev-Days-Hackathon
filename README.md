@@ -4,7 +4,7 @@
 
 [![Registration Open](https://img.shields.io/badge/Registration-Open-brightgreen)](https://aka.ms/aidevdayshackathon)
 [![Duration](https://img.shields.io/badge/Duration-5%20Weeks-blue)](https://aka.ms/aidevdayshackathon)
-[![Prize Pool](https://img.shields.io/badge/Prize%20Pool-$60K+-gold)](https://aka.ms/aidevdayshackathon)
+[![Prize Pool](https://img.shields.io/badge/Prize%20Pool-$80K+-gold)](https://aka.ms/aidevdayshackathon)
 
 ---
 
@@ -66,7 +66,7 @@ All submissions must meet these three requirements:
 - Microsoft Build 2026 in-person ticket (up to 4 team members)
 - Feature in social promotion
 - 1-on-1 mentoring with Microsoft team
-- **$5,000 per team member** (up to 4 members)
+- **$20,000 - ($5,000 per team member, up to 4 members)**
 
 *Best overall solution with real-world impact and innovative use of Microsoft AI platform*
 
@@ -78,7 +78,7 @@ All submissions must meet these three requirements:
 - Microsoft Build 2026 in-person ticket (up to 4 team members)
 - Feature in social promotion
 - 1-on-1 mentoring with Microsoft team
-- **$5,000 per team member** (up to 4 members)
+- **$20,000 - ($5,000 per team member, up to 4 members)**
 
 *Best solution leveraging agentic DevOps to automate CI/CD, incident response, and reliability engineering*
 
@@ -90,7 +90,7 @@ All submissions must meet these three requirements:
 
 Each category winner receives:
 - Microsoft Build 2026 in-person ticket (up to 4 team members)
-- **$2,500 per team member** (up to 4 members)
+- **$10,000 - ($2,500 per team member, up to 4 members)**
 
 | Category | Description |
 |----------|-------------|
