@@ -54,10 +54,8 @@ Entrants may enter by visiting https://aka.ms/aidevdayshackathon ("Hackathon Web
 
 1. Register for the Hackathon on the Hackathon Website by clicking the "Register Now" link. 
 2. Entrants will obtain access to the required developer tools/platform and complete a Project, as described below in Project Requirements. Use of the developer tools will be subject to the license agreement related thereto. Entry in the Hackathon constitutes consent for the Sponsor to collect and maintain an entrant's personal information for the purpose of operating and publicizing the Hackathon, and as otherwise provided in Section 14 (Privacy) below. 
-3. Create a Microsoft Learn profile and complete the Microsoft Learn Skilling Plan(s) which shared on the hackathon landing page. 
+3. Create a Microsoft Learn profile. Optional, but encouraged - complete the Microsoft Learn Skilling Plan(s) which is shared on the hackathon landing page. 
 4. Complete and enter all the required fields on the "Hackathon Projects" page of the Hackathon Website (each a "Submission") during the Submission Period. 
-
-Entrants must complete the Microsoft Learn Skilling Plan; and 
 
 Entrants must build a new solution that falls into at least one of the following Hackathon Categories (each a "Project"). 
 
